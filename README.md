@@ -1,1 +1,1 @@
-hey this is a complex method and it only works for small numbers and  it is not the optimized way to do the optimized way is just go by carry and sum logic the logic is simple just add the adjacent nodes and we need to reverse it because wwe are adding from start
+hey this is a complex method and it only works for small numbers and  it is not the optimized way to do the optimized way is just go by carry and sum logic the logic is simple just add the adjacent nodes and we need not to reverse it because we are adding from start
